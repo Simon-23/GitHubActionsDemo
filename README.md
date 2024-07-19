@@ -1,2 +1,2 @@
 # GitHubActionsDemo
-learning to use GitHub Actions
+Learning to use GitHub Actions
