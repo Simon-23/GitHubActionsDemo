@@ -12,5 +12,5 @@
           echo 5. run make
           make
           echo
-          echo 6. Who is running this script?
-          whoami
+          echo 6. run the build
+          ./build/bin/hello-world
