@@ -13,4 +13,4 @@
           make
           echo
           echo 6. run the build
-          ./build/bin/hello-world
+          sh ./build/bin/hello-world
